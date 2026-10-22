@@ -1,1 +1,3 @@
-# Teledeteccion_2025_L1
+# Teledeteccion
+
+Proyecto de Teledetección 2025
