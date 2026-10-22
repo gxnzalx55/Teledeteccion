@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Teledetección 2025 · Laboratorio 1
 
 Cuadernos de Jupyter de **Teledetección**: desde los fundamentos de NumPy hasta el procesado de imágenes de satélite (Landsat, WorldView, Sentinel) y su clasificación.
@@ -45,3 +46,8 @@ pip install numpy pandas matplotlib opencv-python scikit-learn sentinelhub jupyt
 ├── 4_Zoom/           # incluye RGB/ con las bandas Landsat
 └── 5_ColorYClasificadores/
 ```
+=======
+# Teledeteccion
+
+Proyecto de Teledetección 2025
+>>>>>>> 52a9ecc9bc61a05ea4fa4821e51426d2c6b928f9
